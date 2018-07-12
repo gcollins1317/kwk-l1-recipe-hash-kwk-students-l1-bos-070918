@@ -13,6 +13,7 @@
 #  - agave - 1/4 cup
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 perfect_10_recipe = {
+<<<<<<< HEAD
  :almond_flour => "2 cups",
  :gluten_free_whole_oats => "1 cup",
  :kosher_salt => "1/2 tea spoon",
@@ -23,6 +24,9 @@ perfect_10_recipe = {
  :mini_dark_chocolate_chips => "3/4 cup",
  :olive_oil => "1/2 cup",
  :agave => "1/4 cup"
+=======
+
+>>>>>>> 75af011478d8a1180de2e99d9354372d160ded0a
 }
 
 
